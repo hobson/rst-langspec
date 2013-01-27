@@ -4,7 +4,7 @@
 	:Copyright: (C) 2012 by Hobson Lane at hobson@totalgood.com
 	:License: CC BY-NC-SA (http://creativecommons.org/licenses/by-sa/3.0/)
 	
-	Based on skeleton at <http://live.gnome.org/Gedit/NewLanguage>
+	Based on example at <http://live.gnome.org/Gedit/NewLanguage>
 	
 	To install in Ubuntu Oneiric:
 
@@ -17,10 +17,6 @@
 	<mime-type type="text/x-rst">
 		<comment>reStructuredText Markup</comment>
 		<glob pattern="*.rst"/>
-		<glob pattern="*.reStructuredTxt"/>
-		<glob pattern="*.reStructuredText"/>
-		<glob pattern="*.rstxt"/>
-		<glob pattern="*.retxt"/>
-		<glob pattern="*.restructured"/>
 	</mime-type>
 </mime-info>
+
